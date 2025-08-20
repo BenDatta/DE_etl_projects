@@ -1,0 +1,20 @@
+# AWS libraries
+awswrangler==2.21.0       # AWS Data Wrangler for S3, Glue, Athena, etc.
+
+# Data processing
+pandas==2.1.1
+numpy==1.26.4
+
+# PySpark
+pyspark==4.0.0
+
+# PyArrow (use only binary wheels to avoid CMake build)
+pyarrow==11.0.0 --only-binary :all:
+
+# AWS Glue
+boto3==2.10.1
+py4j==0.10.9.7
+
+# Utilities
+python-dotenv==1.0.1
+urllib3==2.0.5

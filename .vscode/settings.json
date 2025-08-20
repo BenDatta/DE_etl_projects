@@ -1,0 +1,13 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.formatOnCellExecution": true,
+    "cSpell.words": [
+        "dotenv",
+        "huggingface"
+    ]
+}

@@ -1,0 +1,7 @@
+apache-airflow-providers-postgres
+psycopg2-binary
+huggingface-hub
+pandas
+google-cloud-storage
+datetime
+requests
